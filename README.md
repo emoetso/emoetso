@@ -11,6 +11,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/deborah-enike-32ab37230">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn Logo" width="60" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn Logo" width="120" height="30"/>
 </a>
 
